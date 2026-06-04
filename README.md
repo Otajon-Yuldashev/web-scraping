@@ -25,7 +25,7 @@ Each run scrapes the full current state of each ATS. No delta detection. This is
  
 ## Architecture
  
-![Architecture](docs/architecture.svg)
+!Screenshot2026-06-04 143609.png
  
 ```
 Cloud Scheduler (every 4h)          Cloud Scheduler (daily 2am UTC)
