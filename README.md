@@ -7,8 +7,6 @@ A production ATS scraping pipeline on Google Cloud Platform that processes **1.9
  
 Built for [Hiroo](https://gethiroo.netlify.app/) — an AI job search agent for students that applies, networks, and follows up automatically. This pipeline is what keeps its job listings fresh.
  
-Built as a data engineering portfolio project.
- 
 ---
  
 ## What it does
